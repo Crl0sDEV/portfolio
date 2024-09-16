@@ -6,8 +6,8 @@ const Home = () => {
       <div className="md:w-1/2 p-4">
         <h1 className="text-4xl font-bold mb-4">Hello, I'm Carlos Miguel</h1>
         <p className="mb-4">
-          I'm a Aspiring Web DEV with a passion for creating amazing web experiences.
-          I specialize in [Your Specialization] and have a knack for [Your Skills].
+          I'm an Aspiring Web Developer with a passion for creating amazing web experiences.
+          I specialize in Front-End and have a knack for React.JS.
           Let's build something great together!
         </p>
         <a 
